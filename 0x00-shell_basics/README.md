@@ -1,0 +1,1 @@
+code thatblrinta the absolut current directory
