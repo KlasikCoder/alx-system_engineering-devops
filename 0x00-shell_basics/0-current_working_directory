@@ -1,2 +1,2 @@
 #!/bin/bash
-Lines thatbprint absolute directory c
+ls
